@@ -1,2 +1,2 @@
-"数据库系统概论"课程总结
+Summary of the "Introduction to DBMS" Course @ DaSE    
 Taught By Prof. Xuan Zhou @ DaSE
