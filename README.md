@@ -1,2 +1,2 @@
-# DBMS
-Repo for the Introduction to DBMS Course @ DaSE
+"数据库系统概论"课程总结
+Taught By Prof. Xuan Zhou @ DaSE
