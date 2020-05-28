@@ -4,3 +4,5 @@ Summary of the "Introduction to DBMS" Course
 
 NOTE: More Information on The PPT      
 Taught By Prof. Xuan Zhou @ DaSE
+
+Related: [Database System Concepts](https://www.db-book.com/db7/slides-dir/index.html)
